@@ -1,0 +1,1 @@
+export const jwt_scret = process.env.jwt_scret ||"123pranit"
