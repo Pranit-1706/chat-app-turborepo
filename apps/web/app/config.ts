@@ -1,2 +1,0 @@
-export const backend_url = "http://localhost:3001"
-export const ws_url = "ws://localhost:8080?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0MjQxYzNmNS0xOGUzLTRhMmQtYWQ0MC05YTE3OGI0YzkwOGMiLCJpYXQiOjE3NTk2MTYwNDJ9.wsjribuR_GN0IulEuRrh-oRTECoCIegmTDrLHKoOyB0"
